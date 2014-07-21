@@ -17,7 +17,8 @@ Manunally Add points of interest, sag, etc. Syntax follows
 
 syntax for these things
 
-POI: NAME OF THING
-SAG: Location
-No Turn: denotes turn without sign
+* :w
+* POI: NAME OF THING
+* SAG: Location
+* No Turn: denotes turn without sign
 
