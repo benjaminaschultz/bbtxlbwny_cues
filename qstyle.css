@@ -1,0 +1,29 @@
+body {
+    font-family: 'Inconsolata';
+    font-size: 10px;
+}
+
+div.page {
+    height: 288px;
+    width: 250px;
+    border: 1px solid black;
+    margin: 9px 7px 9px 7px;
+}
+
+div.box0 {
+    height:  12px;
+    width: 250px;
+}
+
+div.box1 {
+    height: 12px;
+    width: 250px;
+    background: #A5D3CA;
+}
+
+div.pageno {
+    background: #FFF7B7;
+    height: 12px;
+    width: 250px;
+    text-align: center;
+}
