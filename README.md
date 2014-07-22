@@ -21,3 +21,5 @@ POI: NAME OF THING
 SAG: Location
 No Turn: denotes turn without sign
 
+Screen shot of cue sheets
+![img](screen_shot.png)
