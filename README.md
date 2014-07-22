@@ -17,9 +17,10 @@ Manunally Add points of interest, sag, etc. Syntax follows
 
 syntax for these things
 
-POI: NAME OF THING
-SAG: Location
-No Turn: denotes turn without sign
+* POI: NAME OF THING
+* SAG: Location
+* No Turn: denotes turn without sign
+* Add Images, map\_dayXX\_pgXX.png (see alt txt) 
 
 Screen shot of cue sheets
 ![img](screen_shot.png)
