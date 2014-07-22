@@ -79,7 +79,7 @@ Make a U-turn
 1,033 ft
 Turn right onto E Lake Rd
 0.532 mi
-No sign: Turn left onto Town Line Rd
+Turn left onto Town Line Rd
 3.39 mi
 Continue onto Railroad Ave
 0.269 mi
@@ -122,4 +122,4 @@ Turn left onto Pepper Rd
 0.269 mi
 Turn right onto W Bluff Dr
 853 ft
-Arrive: 7472 West Bluff Drive, Keuka Park, NY 14478, USA
+7472 West Bluff Drive, Keuka Park, NY 14478, USA
