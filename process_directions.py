@@ -45,7 +45,7 @@ w_box = w_page - 2*w_marg
 h_img = h_box - h_text
 w_img = w_box
 
-CHARS_PER_ROW = 41
+CHARS_PER_ROW = 42
 ROWS_PER_PAGE = 24
 DISTANCE_REGEX = re.compile('\d+[.,]?\d*\s+(mi|ft)',re.I)
 
@@ -111,7 +111,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
 
             pages_str = ''
             pages_str += start_page
-            pages_str += '<img src=map_day{0:02}_pg{1:02}.png width={2:d} height={3:d} alt="map_day{0:02}_pg{1:02}.png">'.format(day_no,pg_ct, w_img, h_img)
+            pages_str += '<img src=map_day{0:02}_pg{1:02}.png width={2:d} height={3:d} alt="map_day{0:02}_pg{1:02}.png">'.format(day_no+1,pg_ct, w_img, h_img)
             pages_str += r'<div class=pageno>'
             pages_str += '{:d}'.format(pg_ct)
             pages_str += r'</div>'
@@ -140,7 +140,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
 
     pages_str = ''
     pages_str += start_page
-    pages_str += '<img src=map_day{0:02}_pg{1:02}.png width={2:d} height={3:d} alt="map_day{0:02}_pg{1:02}.png">'.format(day_no,pg_ct, w_img, h_img)
+    pages_str += '<img src=map_day{0:02}_pg{1:02}.png width={2:d} height={3:d} alt="map_day{0:02}_pg{1:02}.png">'.format(day_no+1,pg_ct, w_img, h_img)
     pages_str += r'<div class=pageno>'
     pages_str += '{:d}'.format(pg_ct)
     pages_str += r'</div>'
@@ -149,8 +149,8 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     pg_ct += 1
 
     for i in range((len(pages)+3)//6):
-        fout = open('day{:02d}_pg{:02d}.html'.format(day_no,i),'w')
-        fout.write('<html>\n'+HEADER.format(day_no))
+        fout = open('day{:02d}_pg{:02d}.html'.format(day_no+1,i),'w')
+        fout.write('<html>\n'+HEADER.format(day_no+1))
         for j,p in enumerate(pages[i*6:(i+1)*6]):
             s ='style="position: absolute; top: {}px; left: {}px;"'.format(h_page*(j//3),w_page*(j%3))
             fout.write('<div {}>{}</div>'.format(s,p))

@@ -17,6 +17,7 @@ Turn right onto Fluvanna Ave
 0.380 mi
 Turn left onto N Main St
 0.505 mi
+POI: Lucille Ball's Grave (Lakeview Cemetary)
 Turn right onto Marvin Pkwy
 0.890 mi
 Continue onto Hotchkiss St
@@ -30,6 +31,9 @@ Turn left to stay on Curtis St
 Turn left onto E 2nd St
 0.721 mi
 Continue onto NY-394 W/W Main St
+Turn right on Weeden Rd
+SAG: Weeden Park
+Ride back to Main St
 Continue to follow NY-394 W
 14.4 mi
 Slight left onto NY-394 E/W Main St
@@ -50,7 +54,7 @@ Slight left onto NY-242 E
 2.87 mi
 Turn right onto Monroe St
 262 ft
-Arrive: 26 Monroe Street, Ellicottville, NY 14731, USA
+Arrive: Ellicotville Brewing, 26 Monroe Street
 Head northwest on Monroe St toward Washington St
 262 ft
 Turn right onto NY-242 E/Washington St
@@ -60,4 +64,4 @@ Turn right onto Bryant Hill Rd
 7.67 mi
 Turn right
 436 ft
-Arrive: 3491 Bryant Hill Road, Franklinville, NY 14737, USA
+Arrive: Triple R Campground 3491 Bryant Hill Rd

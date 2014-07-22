@@ -27,10 +27,12 @@ Turn right onto NY-16 N
 8.05 mi
 Turn left onto Genesee Rd
 10.3 mi
+SAG: Genesee and Springville Rd
 Turn right onto Springville Boston Rd
 4.78 mi
 Continue onto Boston State Rd
 5.74 mi
+POI: Nick Charlap's Ice Cream Turn left on Boston State Rd.
 Slight right onto S Abbott Rd
 4.41 mi
 Turn left onto Bayview Rd
@@ -67,6 +69,7 @@ Slight left onto Busti Ave
 289 ft
 Continue onto Niagara St
 0.380 mi
+POI: McKinley Assination Site (R Amherst, R Elmwood, L Fordham)
 Turn left onto Robert Rich Way
 869 ft
 Slight right
@@ -91,7 +94,7 @@ Turn left onto Niagara St
 735 ft
 Slight right onto Ontario St
 0.912 mi
-Arrive: 484 Ontario Street, Buffalo, NY 14207, USA
+Arrive: Pearl St Brewing 484 Ontario Street
 Head northwest on Beatrice Ave toward Esser Ave
 1,306 ft
 Turn left onto Esser Ave
@@ -100,19 +103,8 @@ Turn left onto Tonawanda St
 23 ft
 Turn right toward Riverwalk
 994 ft
-Slight left toward Riverwalk
-443 ft
-Sharp left onto Riverwalk
-3.37 mi
-Sharp right
-Walk your bicycle
-0.889 mi
-Turn right
-43 ft
-Turn right
-0.820 mi
-Continue straight
-0.846 mi
-Turn right onto Fix Rd
-0.872 mi
-Arrive: 2244-2298 Fix Road, Grand Island, NY 14072, USA
+Follow path along River Rd
+Loop-de-Loop to Cross 190W Bridge
+Loop-de-Loop to Exit going South on South Pkwy (After Xing)
+Turn right on Fix Rd
+Arrive: 2300 Fix Road, Grand Island, NY 14072, USA
