@@ -20,4 +20,4 @@ syntax for these things
 * POI: NAME OF THING
 * SAG: Location
 * No Turn: denotes turn without sign
-
+* Add Images, map\_day<00>\_pg<00>.png (see alt txt) 
