@@ -12,6 +12,9 @@ This will create a bunch of html files. You can then go and make snapshots from 
 If you just drop those images into this directory, then they'll show up. To print, you may need to adjust your
 browser settings to print background colors and print in landscape mode.
 
+DONE:
+Proofed directions day 1-4
+
 TODO:
 Manunally Add points of interest, sag, etc. Syntax follows
 

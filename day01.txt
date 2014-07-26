@@ -1,6 +1,6 @@
 Head east on Davis Rd toward NY-394 E
 0.780 mi
-Turn right onto NY-394 E
+Turn right onto NY-394/W Lake Rd E
 8.41 mi
 Slight left to stay on NY-394 E
 0.288 mi
@@ -30,12 +30,11 @@ Turn left to stay on Curtis St
 951 ft
 Turn left onto E 2nd St
 0.721 mi
-Continue onto NY-394 W/W Main St
+Continue onto NY-394 W/W Main St 14 mi
 Turn right on Weeden Rd
 SAG: Weeden Park
 Ride back to Main St
 Continue to follow NY-394 W
-14.4 mi
 Slight left onto NY-394 E/W Main St
 Continue to follow NY-394 E
 2.18 mi
@@ -50,7 +49,7 @@ Slight left onto Dublin Rd
 1.38 mi
 Turn right to stay on Dublin Rd
 2.48 mi
-Slight left onto NY-242 E
+Slight left onto NY-242/Fish Hill Rd E
 2.87 mi
 Turn right onto Monroe St
 262 ft
