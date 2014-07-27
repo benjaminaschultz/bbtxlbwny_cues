@@ -49,9 +49,10 @@ CHARS_PER_ROW = 42
 ROWS_PER_PAGE = 24
 DISTANCE_REGEX = re.compile('\d+[.,]?\d*\s+(mi|ft)',re.I)
 
+pages = list()
+pg_ct = 0
 for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     box_index=0
-    pg_ct = 0
     pg_lnct = 0
     day_lnct = 0
 
@@ -61,13 +62,10 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     start_page = '<div class=page>'
     end_page = '</div>'
 
-    pages = list()
-
     pages_str = ''
     pages_str += start_page
+
     while not line=='':
-
-
         #figure out if next line is distance
         nline = fin.readline()
         if DISTANCE_REGEX.match(nline):
@@ -111,7 +109,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
 
             pages_str = ''
             pages_str += start_page
-            pages_str += '<img src=map_day{0:02}_pg{1:02}.png width={2:d} height={3:d} alt="map_day{0:02}_pg{1:02}.png">'.format(day_no+1,pg_ct, w_img, h_img)
+            pages_str += '<img src=map_pg{0:02}.png width={1:d} height={2:d} alt="map_pg{0:02}.png">'.format(pg_ct, w_img, h_img)
             pages_str += r'<div class=pageno>'
             pages_str += '{:d}'.format(pg_ct)
             pages_str += r'</div>'
@@ -140,7 +138,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
 
     pages_str = ''
     pages_str += start_page
-    pages_str += '<img src=map_day{0:02}_pg{1:02}.png width={2:d} height={3:d} alt="map_day{0:02}_pg{1:02}.png">'.format(day_no+1,pg_ct, w_img, h_img)
+    pages_str += '<img src=map_pg{0:02}.png width={1:d} height={2:d} alt="map_pg{0:02}.png">'.format(pg_ct, w_img, h_img)
     pages_str += r'<div class=pageno>'
     pages_str += '{:d}'.format(pg_ct)
     pages_str += r'</div>'
@@ -148,14 +146,14 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     pages.append(pages_str)
     pg_ct += 1
 
-    for i in range((len(pages)+3)//6):
-        fout = open('day{:02d}_pg{:02d}.html'.format(day_no+1,i),'w')
-        fout.write('<html>\n'+HEADER.format(day_no+1))
-        for j,p in enumerate(pages[i*6:(i+1)*6]):
-            s ='style="position: absolute; top: {}px; left: {}px;"'.format(h_page*(j//3),w_page*(j%3))
-            fout.write('<div {}>{}</div>'.format(s,p))
+for i in range((len(pages)+3)//6):
+    fout = open('pg{:02d}.html'.format(i),'w')
+    fout.write('<html>\n'+HEADER.format(0))
+    for j,p in enumerate(pages[i*6:(i+1)*6]):
+        s ='style="position: absolute; top: {}px; left: {}px;"'.format(h_page*(j//3),w_page*(j%3))
+        fout.write('<div {}>{}</div>'.format(s,p))
 
-        fout.write('</html>')
-        fout.close()
+    fout.write('</html>')
+    fout.close()
 
-    fin.close()
+fin.close()

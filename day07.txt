@@ -7,51 +7,35 @@ Continue to follow NY-90 N
 6.33 mi
 Turn left to stay on NY-90 N
 0.680 mi
-Turn right onto NY-31 E
+Turn right onto NY-31 E/ Armitage Rd
 4.51 mi
-Turn left onto Main St
-105 ft
-Continue onto Utica St
+Slight left onto Utica St
 1,211 ft
-Turn right toward Canalway Trail- Erie Section (Camillus to Port Byron)
-200 ft
-Continue onto Canalway Trail- Erie Section (Camillus to Port Byron)
+Continue onto Canalway Trail (before Maple Ave)
 2.33 mi
-Slight right onto NY-31 E
+Slight right onto NY-31 E/ Eerie Dr
 1.28 mi
 Turn left onto NY-34 N
 187 ft
-Turn right onto Canalway Trail- Erie Section (Camillus to Port Byron)
-0.324 mi
-Turn left onto Canalway Trail- Erie Section (Camillus to Port Byron)/Towpath Rd
-1,145 ft
-Slight right onto Canalway Trail- Erie Section (Camillus to Port Byron)
-1.04 mi
-Slight right at NY-31 W
+Turn right onto Canalway Trail
+1.24 mi
+Slight right at NY-31 W/Towpath
 39 ft
+POI: Dirt Motor Sports Auto Museum
 Turn left onto Canalway Trail- Erie Section (Camillus to Port Byron)
-2.46 mi
-Slight left to stay on Canalway Trail- Erie Section (Camillus to Port Byron)
-66 ft
-Slight left to stay on Canalway Trail- Erie Section (Camillus to Port Byron)
-4.04 mi
-Turn left onto Laird Rd
-0.381 mi
-Turn left onto NY-31 W
-397 ft
-Turn right onto Laird Rd
-0.795 mi
-Turn right onto Old Rte 31
-1,152 ft
-Turn left onto Plainville Rd
-2.07 mi
-Turn left onto Tater Rd
-3.03 mi
-Turn left onto NY-370 W
-4.50 mi
-Turn right onto E Rd
-295 ft
-Continue onto Bradt Rd
+0.931 mi
+Turn left onto Bonta Bridge Rd
+2.23 mi
+Turn right onto Jorolemon Rd
+1.01 mi
+Slight left onto Jordan Rd
+4.16 mi
+SAG: In a field
+Slight left to stay on Jordan Rd
+0.987 mi
+Turn left onto NY-370 W/Main St
+1.33 mi
+Continue onto 38B/Bradt Rd
 3.28 mi
 Turn left onto Ira Station Rd
 1.23 mi
@@ -61,14 +45,39 @@ Continue onto Ira Station Rd
 1,014 ft
 Turn left onto Pierce Rd
 617 ft
+If path:
 Turn right onto Abandoned Railroad Grade
-5.75 mi
-Continue onto Abandoned Railroad Grd
-0.744 mi
+6.54 mi
 Turn left onto Simmons Rd
 112 ft
 Slight right onto Fair Haven Rd
 0.925 mi
-Turn left onto Main St
+else:
+Turn left onto Ira Station Rd
+1,043 ft
+Continue onto Sand Hill Rd
+0.851 mi
+Turn right onto Pople Rd
+0.359 mi
+Turn right onto NY-38 N
+689 ft
+Turn left onto State Barn Rd
+840 ft
+Continue onto NY-104 W
+1.25 mi
+Turn right onto Wright Rd
+1.20 mi
+Continue straight onto Sterling Station Rd
+354 ft
+Slight right onto Humphrey Rd
+2.30 mi
+Turn right onto Sterling Station Rd
+0.258 mi
+Turn left onto Fair Haven Rd
+1.69 mi
+endif
+Turn right onto Main St
+POI: Fly by Night Cookie Co.
 89 ft
-578-580 Main Street, Sterling, NY 13156, USA
+Turn left on State Park Rd
+Arrive: Fairhaven Beach State Park
