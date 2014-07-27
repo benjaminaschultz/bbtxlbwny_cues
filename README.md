@@ -12,8 +12,10 @@ This will create a bunch of html files. You can then go and make snapshots from 
 If you just drop those images into this directory, then they'll show up. To print, you may need to adjust your
 browser settings to print background colors and print in landscape mode.
 
-DONE:
-Proofed directions day 1-4
+Status:
+Kiersten proofed directions day 1-2
+Days 3-5 are ready for review, need maps
+Days 6-7 need editing. Add POI, Arrivals, etc.
 
 TODO:
 Manunally Add points of interest, sag, etc. Syntax follows

@@ -1,125 +1,104 @@
-Head east on Wyndale Rd toward Gardham Rd
-0.598 mi
-Turn right onto Oakview Dr
-1,086 ft
-Continue onto Portland Ave
-1.64 mi
-Turn left onto Norton St
-0.655 mi
-Turn right onto Waring Rd
-0.766 mi
-Continue onto Culver Rd
-0.664 mi
-Slight left onto Merchants Rd
-1.06 mi
-Turn right onto Winton Rd N
-1.20 mi
-Turn left onto Hillside Ave
-0.534 mi
-Turn left onto Highland Ave
-728 ft
-Turn right onto Pittsford Trail System (Railroad Loop Trail)
-1.75 mi
-Turn right onto Clover St
-495 ft
-Slight left onto Monroe Ave
-276 ft
-Slight right onto Pittsford Trail System (Railroad Loop Trail)
-1.50 mi
-Continue onto Erie Canal Heritage Trail
-0.633 mi
-Slight right to stay on Erie Canal Heritage Trail
-0.661 mi
-Slight right to stay on Erie Canal Heritage Trail
-0.324 mi
-Take the pedestrian tunnel
-1.01 mi
-Slight right to stay on Erie Canal Heritage Trail
-1.61 mi
-Turn left to stay on Erie Canal Heritage Trail
-43 ft
-Turn left to stay on Erie Canal Heritage Trail
-108 ft
-Slight left to stay on Erie Canal Heritage Trail
-20 ft
-Turn left onto Marsh Rd
-597 ft
-Turn left onto NY-96 S
-12.6 mi
-Turn right onto Payne Rd
-1.78 mi
-Continue onto Risser Rd
-1.74 mi
-Slight right onto Macedon Rd
-1.20 mi
-Continue onto North St
-217 ft
-Turn left onto N Main St
-0.455 mi
-Slight right to stay on N Main St
-1.78 mi
-Slight left onto Lakeshore Dr
-1.75 mi
-Turn right onto US-20 E
-0.864 mi
-Arrive: 4042-4044 New York 5, Canandaigua, NY 14424, USA
-Head west on US-20 W toward Smith Rd
-0.864 mi
-Turn left onto Lakeshore Dr
-0.561 mi
-Turn left onto NY-364 S
-0.341 mi
-Slight right to stay on NY-364 S
-4.57 mi
-Turn right onto E Lake Rd
-3.01 mi
-Turn right onto Shale Beach Dr
-1,033 ft
-Make a U-turn
-1,033 ft
-Turn right onto E Lake Rd
-0.532 mi
-No sign: Turn left onto Town Line Rd
-3.39 mi
-Continue onto Railroad Ave
-0.269 mi
-Turn left onto N Main St
-92 ft
-Turn right onto Castle St
-0.342 mi
-Continue onto Clark Rd
-1.93 mi
-Turn right onto Crowe Rd
-0.500 mi
-Continue onto Fitch Rd
-0.355 mi
-Turn left onto Ferguson Corners Rd
-2.39 mi
-Turn right onto Voak Rd
-3.69 mi
-Turn left onto Petersburg Rd
-0.493 mi
-Continue onto Baldwin Rd
-0.459 mi
-Turn right onto Briggs Rd
-2.20 mi
-Continue onto Sutton Rd
-1.94 mi
-Continue onto Coates Rd
-0.823 mi
-Turn left onto Merritt Hill Rd
-1,306 ft
-Arrive: 2947-2997 Merritt Hill Road, Penn Yan, NY 14527, USA
-Head west on Merritt Hill Rd toward Coates Rd
-1,306 ft
-Turn left onto Coates Rd
-1.13 mi
-Slight right onto Kinneys Corners Rd
-0.374 mi
-Turn right onto NY-54A S
-1.38 mi
-Turn left onto Pepper Rd
-0.269 mi
-Turn right onto W Bluff Dr
+Head east on W Bluff Dr toward Pepper Rd
 853 ft
-Arrive: 7472 West Bluff Drive, Keuka Park, NY 14478, USA
+Turn left onto Pepper Rd
+0.263 mi
+Turn right onto NY-54A N
+2.79 mi
+Turn right onto Central Ave/W Lake Rd
+469 ft
+Turn left onto W Lake Rd
+2.04 mi
+Turn right onto NY-54A N
+1.42 mi
+Turn right onto Main St
+0.268 mi
+POI: World's Largest Pancake
+Turn right onto NY-54 S/Lake St
+3.59 mi
+Turn right onto Lower East Lake Rd
+1.75 mi
+Continue onto E Lake Rd
+2.03 mi
+Turn right to stay on E Lake Rd
+0.329 mi
+Turn right onto NY-54 S
+0.782 mi
+Turn right onto E Lake Rd
+1.80 mi
+Turn right onto NY-54 S
+0.265 mi
+Turn right onto E Lake Rd
+0.523 mi
+Continue onto Keuka Village Rd
+1.42 mi
+Turn right onto NY-54 S
+36 ft
+Slight left onto NY-230 E
+2.32 mi
+Turn right onto Co Rd 25
+3.56 mi
+Turn left onto Co Rd 23
+1.95 mi
+Turn right onto NY-226 S
+187 ft
+Turn left onto Co Rte 23
+8.01 mi
+Slight right onto Co Rte 28
+1.16 mi
+Continue onto Steuben St
+0.423 mi
+Continue onto W 4th St
+0.649 mi
+SAG: Clute Park & Campground
+Continue onto NY-414 N
+1.08 mi
+Turn left toward NY-414 N
+16 ft
+Turn right onto NY-414 N
+4.61 mi
+Arrive: Finger Lakes Distilling 4676 NY 414
+Head north on NY-414 N toward Cherry Landing
+1.21 mi
+Turn left onto Wickham Rd
+197 ft
+Arrive: Two Goats Brewing 5027 NY 414
+Head northeast on Wickham Rd toward NY-414 S
+197 ft
+Turn left onto NY-414 N
+4.65 mi
+Turn right onto Seneca Rd/S Town Line Rd
+26 ft
+Arrive: Standing Stone Vineyard 3628 S Town Line Rd
+Head west on Seneca Rd/S Town Line Rd toward NY-414 S
+26 ft
+Turn right onto NY-414 N
+5.78 mi
+Turn right onto NY-96A S/E Seneca St
+5.00 mi
+Turn left onto N Main St
+889 ft
+Turn right onto Cayuga St
+1.000 mi
+Continue onto County Rd 141B
+1,194 ft
+Turn right onto NY-89 S
+0.437 mi
+Arrive: Cayuga Creamery 8421 NY 89
+Head southeast on NY-89 S toward Bergen Beach Rd
+2.58 mi
+Arrive: Bellwether Hard Cider 9070 NY 89
+Head southeast on NY-89 S
+735 ft
+Slight right onto Booth Rd
+0.850 mi
+Turn left onto E Covert Rd
+36 ft
+Turn right onto NY-89 S
+2.71 mi
+Turn left onto Oak Harbor Rd
+0.278 mi
+Turn right onto Oak Harbor Ln
+945 ft
+Continue onto Oak Harbor Rd
+36 ft
+Arrive: Taughannock State Park
