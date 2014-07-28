@@ -1,6 +1,6 @@
 Head east on Fix Rd toward Hidden Oaks Ct
 0.872 mi
-Turn left onto path after crossing South Pkwy
+Turn left onto path after crossing Beaver Island/South Pkwy
 1.602 mi
 Turn left to do a loop and cross I190 Bridge
 Loop around toward Riverwalk
@@ -14,6 +14,7 @@ Continue onto Young St
 Turn left on to Path toward Ped Bridge
 551 ft
 Follow path along river until Niagara St
+You're next to the Erie Canal!  (It may be called "Tonawanda Creek" here.)  Follow this to Lockport and onto Rochester.
 1.28 mi
 Turn left onto E Niagara St/Creekside Dr
 135 ft
@@ -21,65 +22,64 @@ Continue onto Creekside Dr
 0.979 mi
 Slight left at Park Rd onto path
 1.74 mi
-Continue onto Tonawanda Creek Rd
+Continue onto Tonawanda Creek Rd (off canal for about a mile)
 1.32 mi
-Turn left onto path after Vine ln
+Turn left onto path after Vine Ln
 0.953 mi
-Turn right toward Brenon Rd at UB Boathouse
+Turn right toward Brenon Rd at UB Boathouse (in Amherst Veterans Canal Park)
 154 ft
 Turn left onto Brenon Rd
 961 ft
-Turn left onto path toward river
+Turn left onto path toward river (around Wendelville Park)
 0.777 mi
 Turn left onto Tonawanda Creek Rd (path ends)
 0.731 mi
 Turn left toward river, on path
 0.298 mi
-Turn left onto Tonawanda Creek Rd
+Turn left onto Tonawanda Creek Rd (or path, if available)
 1.42 mi
 Continue onto Orbit Dr
 0.560 mi
-Turn left onto path (before Tonawanda Creek rd)
+Turn left onto path (before Tonawanda Creek Rd)
 0.960 mi
-Turn left onto New Rd/E Canal Rd
+Turn left onto New Rd/E Canal Rd (Tonawanda Creek goes east, we go north along the canal)
 220 ft
 Continue onto E Canal Rd
 2.03 mi
-Turn left onto Feigle/Fisk Rd
+Turn left onto Feigle/Fisk Rd and cross canal
 666 ft
-Turn right onto Bear Ridge Rd
+Turn right onto Bear Ridge Rd along canal
 2.84 mi
 Continue onto Hinman Rd
 0.357 mi
-Turn right onto NY-93 E
+Turn right onto Lockport Bypass/NY-93 E and cross canal
 456 ft
-Turn left onto State Rd
+Turn left onto State Rd along canal
 1.18 mi
-Turn left onto S Transit St
+Turn left onto S Transit St to cross canal
 1,125 ft
 Turn right onto Niagara St
 463 ft
-Continue onto Canal St
+POI: Erie Canal Discover Center is 100 ft north on Church
+Continue onto Canal St along canal
 315 ft
 Slight right toward Erie Canal Heritage Trail (Just after Church st)
 361 ft
 Continue onto Erie Canal Heritage Trail
-0.5338 mi
+0.338 mi
 Zig-zag Mill St
 11.2 mi
 Turn Left on Orangeport Rd
 SAG: In a field
-Turn right onto N Main St
-33 ft
-Turn left onto Front St
+Cross Main St in Middleport (leave path briefly)
 3.23 mi
-Continue onto Erie Canal Heritage Trail
+Cross Marshall Road
 1.48 mi
-Cross Prospect Ave
+Cross Gravel Rd/Prospect Ave in Medina
 205 ft
+POI: Big Apple
 Slight right onto Erie Canal Heritage Trail
 1.53 mi
-POI: Big Apple
 Turn right to stay on Erie Canal Heritage Trail
 1.33 mi
 Continue straight to stay on Erie Canal Heritage Trail
@@ -99,11 +99,9 @@ Continue onto Canal Rd
 Continue onto Erie Canal Heritage Trail
 15.3 mi
 SAG: before crossing West, San Soucie Park
-Turn right onto N Union St
-56 ft
-POI: Cross bridgbe on union for Abbott's Custard
-Turn left onto Canal St
-39 ft
+Cross Union St in Spencerport
+95 ft
+POI: Cross bridge on Union for Abbott's Custard
 Slight right onto Erie Canal Heritage Trail
 3.31 mi
 Continue straight to stay on Erie Canal Heritage Trail
@@ -113,7 +111,7 @@ Turn right to stay on Erie Canal Heritage Trail
 1.36 mi
 Turn right toward Lee Rd (path exit)
 210 ft
-Turn left onto Lee Rd
+Turn left onto Lee Rd and cross canal
 958 ft
 Turn right onto Emerson St
 2.08 mi
@@ -125,7 +123,7 @@ Turn right onto State St
 0.386 mi
 Turn left onto Platt St
 430 ft
-Continue onto Pont de Rennes
+Continue onto Pont de Rennes and cross river
 978 ft
 Continue straight onto Genesee Riverway Trail
 43 ft
