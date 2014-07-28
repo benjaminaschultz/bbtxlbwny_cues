@@ -14,11 +14,16 @@ browser settings to print background colors and print in landscape mode.
 
 Status:
 Kiersten proofed directions day 1-2
-Days 3-5 are ready for review, need maps
+Days 3-5 need maps
 Days 6-7 need editing. Add POI, Arrivals, etc.
+
+Day 3 needs a 1st SAG point.  Lockport?  Big Apple?
+Day 5/6: is the campground in the right place?  see http://www.taughannock.com/trailmap2.gif
+
 
 TODO:
 Manunally Add points of interest, sag, etc. Syntax follows
+
 
 syntax for these things
 

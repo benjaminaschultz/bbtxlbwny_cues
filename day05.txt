@@ -1,14 +1,14 @@
-Head east on W Bluff Dr toward Pepper Rd
+Head east on W Bluff Dr toward Pepper Rd (backtracking)
 853 ft
-Turn left onto Pepper Rd
+Turn left onto Pepper Rd (backtracking)
 0.263 mi
-Turn right onto NY-54A N
+Turn right onto NY-54A N (becomes Assembly)
 2.79 mi
 Turn right onto Central Ave/W Lake Rd
 469 ft
 Turn left onto W Lake Rd
 2.04 mi
-Turn right onto NY-54A N
+Turn right onto NY-54A N/W Lake Rd
 1.42 mi
 Turn right onto Main St
 0.268 mi
@@ -33,51 +33,42 @@ Continue onto Keuka Village Rd
 1.42 mi
 Turn right onto NY-54 S
 36 ft
-Slight left onto NY-230 E
+Slight left onto NY-230 E (leaving Keuka Lake)
 2.32 mi
-Turn right onto Co Rd 25
+Turn right onto Co Rd 25 (along Waneta Lake)
 3.56 mi
 Turn left onto Co Rd 23
 1.95 mi
-Turn right onto NY-226 S
+Turn right onto NY-226 S (to cross)
 187 ft
 Turn left onto Co Rte 23
 8.01 mi
 Slight right onto Co Rte 28
 1.16 mi
-Continue onto Steuben St
+Continue onto Steuben St entering Walkins Glen
 0.423 mi
 Continue onto W 4th St
 0.649 mi
-SAG: Clute Park & Campground
-Continue onto NY-414 N
+POI: Walmart
+SAG: Lakeside Park off Boatranch Rd
+Continue onto NY-414 N (along Senaca Lake)
 1.08 mi
-Turn left toward NY-414 N
-16 ft
-Turn right onto NY-414 N
+Slight left onto NY-414 N
 4.61 mi
 Arrive: Finger Lakes Distilling 4676 NY 414
 Head north on NY-414 N toward Cherry Landing
 1.21 mi
-Turn left onto Wickham Rd
-197 ft
-Arrive: Two Goats Brewing 5027 NY 414
-Head northeast on Wickham Rd toward NY-414 S
-197 ft
-Turn left onto NY-414 N
+Arrive: Two Goats Brewing 5027 NY 414 on Wickman Rd
+Head north on NY-414 N
 4.65 mi
-Turn right onto Seneca Rd/S Town Line Rd
-26 ft
 Arrive: Standing Stone Vineyard 3628 S Town Line Rd
-Head west on Seneca Rd/S Town Line Rd toward NY-414 S
-26 ft
-Turn right onto NY-414 N
+Head north on NY-414 N
 5.78 mi
-Turn right onto NY-96A S/E Seneca St
+Turn right onto NY-96A S/E Seneca St in Lodi
 5.00 mi
-Turn left onto N Main St
+Turn left onto N Main St in Interlaken
 889 ft
-Turn right onto Cayuga St
+Turn right onto 141/Cayuga St
 1.000 mi
 Continue onto County Rd 141B
 1,194 ft
@@ -89,7 +80,7 @@ Head southeast on NY-89 S toward Bergen Beach Rd
 Arrive: Bellwether Hard Cider 9070 NY 89
 Head southeast on NY-89 S
 735 ft
-Slight right onto Booth Rd
+Slight right onto Booth Rd (parallel to NY-89)
 0.850 mi
 Turn left onto E Covert Rd
 36 ft
