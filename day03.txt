@@ -13,7 +13,7 @@ Continue onto Young St
 220 ft
 Turn left on to Path toward Ped Bridge
 551 ft
-Follow path along river unti;l Niagara St
+Follow path along river until Niagara St
 1.28 mi
 Turn left onto E Niagara St/Creekside Dr
 135 ft
@@ -64,13 +64,11 @@ Continue onto Canal St
 Slight right toward Erie Canal Heritage Trail (Just after Church st)
 361 ft
 Continue onto Erie Canal Heritage Trail
-0.338 mi
-1,240 ft
-413 ft
+0.5338 mi
 Zig-zag Mill St
 11.2 mi
-Turn right onto Mill St
-89 ft
+Turn Left on Orangeport Rd
+SAG: In a field
 Turn right onto N Main St
 33 ft
 Turn left onto Front St

@@ -50,7 +50,32 @@ ROWS_PER_PAGE = 24
 DISTANCE_REGEX = re.compile('\d+[.,]?\d*\s+(mi|ft)',re.I)
 
 pages = list()
-pg_ct = 0
+start_page = '<div class=page>'
+end_page = '</div>'
+pages_str = start_page
+key_list = [
+             ('turn left','&#8592'),
+             ('turn right','&#8594'),
+             ('continue','&#8593'),
+             ('slight right','&#8599'),
+             ('slight left','&#8598'),
+             ('SAG','&#10010'),
+             ('arrive','&#9733'),
+             ('POI', '&#9734'),
+             ('no sign','&#x2717')]
+
+box_index=0
+for k,v in key_list:
+    pages_str+= r'<div class=box{}>'.format(box_index)\
+                       + ' = '.join((k,v))\
+                      + r'</div>'
+    box_index = (box_index+1)%2
+
+pages_str+=end_page
+pages.append(pages_str)
+
+pg_ct = 1
+
 for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     box_index=0
     pg_lnct = 0
@@ -59,8 +84,6 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     fin = open(file_in)
 
     line = fin.readline()
-    start_page = '<div class=page>'
-    end_page = '</div>'
 
     pages_str = ''
     pages_str += start_page
@@ -99,7 +122,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
             prefix=' '
 
         if len(step_lines)+pg_lnct>=ROWS_PER_PAGE:
-            pages_str += '< div class=box0></div>'*(ROWS_PER_PAGE - pg_lnct - 1)
+            pages_str += '<div class=box0></div>'*(ROWS_PER_PAGE - pg_lnct - 1)
             pages_str += r'<div class=pageno>'
             pages_str += '{:d}'.format(pg_ct)
             pages_str += r'</div>'
@@ -109,7 +132,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
 
             pages_str = ''
             pages_str += start_page
-            pages_str += '<img src=map_pg{0:02}.png width={1:d} height={2:d} alt="map_pg{0:02}.png">'.format(pg_ct, w_img, h_img)
+            pages_str += '<img src=pg_{0:02}.png width={1:d} height={2:d} alt="pg_{0:02}.png">'.format(pg_ct, w_img, h_img)
             pages_str += r'<div class=pageno>'
             pages_str += '{:d}'.format(pg_ct)
             pages_str += r'</div>'
@@ -138,7 +161,7 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
 
     pages_str = ''
     pages_str += start_page
-    pages_str += '<img src=map_pg{0:02}.png width={1:d} height={2:d} alt="map_pg{0:02}.png">'.format(pg_ct, w_img, h_img)
+    pages_str += '<img src=pg_{0:02}.png width={1:d} height={2:d} alt="pg_{0:02}.png">'.format(pg_ct, w_img, h_img)
     pages_str += r'<div class=pageno>'
     pages_str += '{:d}'.format(pg_ct)
     pages_str += r'</div>'
