@@ -171,11 +171,27 @@ for day_no,file_in in enumerate(sorted(glob.glob('*.txt'))):
     pages.append(pages_str)
     pg_ct += 1
 
-for i in range((len(pages)+3)//6):
-    fout = open('pg{:02d}.html'.format(i),'w')
+for i in range((len(pages)+7)//12):
+    print(2*i,2*i+1)
+    fout = open('pg{:02d}.html'.format(2*i),'w')
     fout.write('<html>\n'+HEADER.format(0))
-    for j,p in enumerate(pages[i*6:(i+1)*6]):
+    pg_no1s = range((i)*12,(i+1)*12,2)
+    pg_no2s = range((i)*12+1,(i+1)*12+1,2)
+    print(pg_no1s)
+    print(pg_no2s)
+    for j,ip in enumerate(pg_no1s):
+        p = pages[ip] if ip < len(pages) else ''
         s ='style="position: absolute; top: {}px; left: {}px;"'.format(h_page*(j//3),w_page*(j%3))
+        fout.write('<div {}>{}</div>'.format(s,p)) 
+
+    fout.write('</html>')
+    fout.close()
+
+    fout = open('pg{:02d}.html'.format(2*i+1),'w')
+    fout.write('<html>\n'+HEADER.format(0))
+    for j,ip in enumerate(pg_no2s):
+        p = pages[ip] if ip < len(pages) else ''
+        s ='style="position: absolute; top: {}px; left: {}px;"'.format(h_page*(j//3),w_page*(2-(j%3)))
         fout.write('<div {}>{}</div>'.format(s,p))
 
     fout.write('</html>')

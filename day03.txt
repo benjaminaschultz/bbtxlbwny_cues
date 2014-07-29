@@ -11,10 +11,10 @@ Turn left onto Niagara St (Sidewalk)
 492 ft
 Continue onto Young St
 220 ft
-Turn left on to Path toward Ped Bridge
+Turn left on to path toward Ped Bridge
 551 ft
 Follow path along river until Niagara St
-You're next to the Erie Canal!  (It may be called "Tonawanda Creek" here.)  Follow this to Lockport and onto Rochester.
+Erie Canal!  (maybe "Tonawanda Creek" here.)  Follow this to Lockport and Rochester.
 1.28 mi
 Turn left onto E Niagara St/Creekside Dr
 135 ft
@@ -36,7 +36,7 @@ Turn left onto Tonawanda Creek Rd (path ends)
 0.731 mi
 Turn left toward river, on path
 0.298 mi
-Turn left onto Tonawanda Creek Rd (or path, if available)
+Turn left onto Tonawanda Creek Rd (or path?)
 1.42 mi
 Continue onto Orbit Dr
 0.560 mi
@@ -63,9 +63,9 @@ Turn right onto Niagara St
 POI: Erie Canal Discover Center is 100 ft north on Church
 Continue onto Canal St along canal
 315 ft
-Slight right toward Erie Canal Heritage Trail (Just after Church st)
+Slight right toward Erie Canal Trail (Just after Church st)
 361 ft
-Continue onto Erie Canal Heritage Trail
+Continue onto EC Trail
 0.338 mi
 Zig-zag Mill St
 11.2 mi
@@ -78,36 +78,36 @@ Cross Marshall Road
 Cross Gravel Rd/Prospect Ave in Medina
 205 ft
 POI: Big Apple
-Slight right onto Erie Canal Heritage Trail
+Slight right onto EC Trail
 1.53 mi
-Turn right to stay on Erie Canal Heritage Trail
+Turn right to stay on EC Trail
 1.33 mi
-Continue straight to stay on Erie Canal Heritage Trail
+Continue straight to stay on EC Trail
 4.93 mi
 Turn left onto Eagle Harbor Waterport Rd
 85 ft
-Turn right onto Erie Canal Heritage Trail
+Turn right onto EC Trail
 3.42 mi
 Cross Ingersoll St
 33 ft
-Continue onto Erie Canal Heritage Trail
+Continue onto EC Trail
 5.46 mi
-Slight right to stay on Erie Canal Heritage Trail
+Slight right to stay on EC Trail
 0.887 mi
 Continue onto Canal Rd
 187 ft
-Continue onto Erie Canal Heritage Trail
+Continue onto EC Trail
 15.3 mi
 SAG: before crossing West, San Soucie Park
 Cross Union St in Spencerport
 95 ft
 POI: Cross bridge on Union for Abbott's Custard
-Slight right onto Erie Canal Heritage Trail
+Slight right onto EC Trail
 3.31 mi
-Continue straight to stay on Erie Canal Heritage Trail
+Continue straight to stay on EC Trail
 2.02 mi
 Cross bridge on Long Pong Rd at path end
-Turn right to stay on Erie Canal Heritage Trail
+Turn right to stay on EC Trail
 1.36 mi
 Turn right toward Lee Rd (path exit)
 210 ft
@@ -125,11 +125,11 @@ Turn left onto Platt St
 430 ft
 Continue onto Pont de Rennes and cross river
 978 ft
-Continue straight onto Genesee Riverway Trail
+Continue onto Genesee Riverway Trail
 43 ft
 Continue onto Cataract St
 331 ft
-Arrive: Genesee Brewering 8 Cataract Street, Rochester, NY 14605, USA
+Arrive: Genesee Brewering 8 Cataract Street
 Head north toward St Paul St
 194 ft
 Turn left onto St Paul St
